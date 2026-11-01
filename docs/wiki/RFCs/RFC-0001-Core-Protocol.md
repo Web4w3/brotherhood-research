@@ -17,6 +17,23 @@ Unlike orchestration-centric architectures, Brotherhood enables independent agen
 
 ---
 
+## Motivation
+
+Existing AI ecosystems focus primarily on:
+
+- Agent → Tool
+- Tool → API
+- Model → Completion
+
+As specialized AI systems become more common,
+cross-agent collaboration becomes increasingly important.
+
+Brotherhood explores a federation-first model
+that enables independent agents to communicate,
+discover capabilities,
+delegate work,
+and establish trust without requiring a central orchestrator.
+
 ## Goals
 
 - Agent interoperability
