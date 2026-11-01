@@ -10,7 +10,17 @@ Exploring Agent Federation.
 - How should trust work between agents?
 - Can specialized AI systems collaborate across vendors and models?
 
-Research, RFCs, architecture discussions, and standards exploration.
+## Status
+
+⚠️ Early Research Project
+
+Brotherhood is currently exploring agent federation,
+interoperability,
+identity,
+trust,
+and collaboration between specialized AI systems.
+
+This repository contains research and draft RFCs.
 
 ## Documentation
 
