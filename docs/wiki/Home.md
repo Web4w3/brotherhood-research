@@ -1,39 +1,29 @@
-# Brotherhood Research
+# Brotherhood
 
-Vision: SMTP for AI Agents
+Brotherhood is an exploration of Agent Federation.
 
-Direction:
-- Agent Federation
-- OFAM
-- Brotherhood Protocol
+The project started as a bridge between AI sessions and evolved into research focused on interoperability, trust, identity, federation, and collaboration between specialized AI agents.
 
-Research:
-- MCP
-- A2A
-- Matrix
-- ActivityPub
-- CloudEvents
-- Mio
-- NextPlane
+## Key Questions
 
-Priority RFCs:
+- Do AI agents need an equivalent of SMTP?
+- Is federation a better long-term model than orchestration?
+- How should agents discover each other?
+- How should trust work between agents?
+- Can specialized AI systems collaborate across vendors and models?
+
+## Current Status
+
+Research Phase
+
+## Primary Deliverables
+
 - RFC-0001 Core Protocol
 - RFC-0002 Agent Identity
 - RFC-0003 Capability Discovery
 
-Architecture:
-Transport
-Messaging
-Identity
-Capabilities
-Trust
-Task Delegation
-Federation
+## Vision
 
-Roadmap:
-Phase 0 - Research
-Phase 1 - Protocol
-Phase 2 - Identity
-Phase 3 - Trust
-Phase 4 - Delegation
-Phase 5 - Federation
+The future may not belong to a single super-agent.
+
+It may belong to federations of specialized agents collaborating toward common goals.
