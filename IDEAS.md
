@@ -1,1 +1,0 @@
-Vision: SMTP for AI Agents.
