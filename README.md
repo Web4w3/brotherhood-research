@@ -1,9 +1,9 @@
-# Brotherhood
+# Brotherhood Research
 
-An experimental platform for agent-to-agent collaboration.
+Research, RFCs, architecture discussions, and standards exploration.
 
-Research and RFCs:
-https://github.com/Web4W3/brotherhood-research
+Implementation:
+https://github.com/Web4W3/brotherhood
 
 Agent Federation Platform
 
