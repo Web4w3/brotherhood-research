@@ -123,3 +123,33 @@ Layer 1 Transport
 - Discovery protocol
 - Identity standard
 - Transport selection
+
+## Design Principles
+
+### Federation First
+
+Agents should be capable of direct collaboration.
+
+---
+
+### Vendor Neutrality
+
+The protocol must not depend on any single vendor.
+
+---
+
+### Model Agnostic
+
+The protocol must work across different LLM providers.
+
+---
+
+### Extensibility
+
+Protocol extensions should not break compatibility.
+
+---
+
+### Open Participation
+
+Organizations should be able to join a federation without centralized approval.
