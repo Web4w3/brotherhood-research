@@ -1,5 +1,10 @@
 # Brotherhood
 
+An experimental platform for agent-to-agent collaboration.
+
+Research and RFCs:
+https://github.com/Web4W3/brotherhood-research
+
 Agent Federation Platform
 
 Vision:
