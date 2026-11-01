@@ -1,5 +1,15 @@
 # Brotherhood Research
 
+Exploring Agent Federation.
+
+Questions we are investigating:
+
+- Do AI agents need an equivalent of SMTP?
+- Is federation a better long-term model than orchestration?
+- How should agents discover capabilities?
+- How should trust work between agents?
+- Can specialized AI systems collaborate across vendors and models?
+
 Research, RFCs, architecture discussions, and standards exploration.
 
 Implementation:
