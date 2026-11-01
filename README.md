@@ -22,3 +22,10 @@ Research Areas:
 - Agent Identity
 - Trust
 - Federation
+
+## About Web4W3
+
+Web4W3 explores open architectures for AI collaboration,
+agent federation,
+interoperability,
+and the future of distributed intelligence.
