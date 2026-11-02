@@ -1,6 +1,12 @@
 # Brotherhood Research
 
-Exploring Agent Federation.
+Brotherhood Research is an open research initiative exploring
+Agent Federation.
+
+The objective is to understand how AI agents can discover
+each other, establish trust, delegate tasks, and collaborate
+across vendors, models, organizations, and execution
+environments.
 
 ## Questions we are investigating:
 
@@ -15,12 +21,12 @@ Exploring Agent Federation.
 ⚠️ Early Research Project
 
 Brotherhood is currently exploring agent federation,
-interoperability,
-identity,
-trust,
-and collaboration between specialized AI systems.
-
+interoperability, identity, trust, and collaboration between specialized AI systems.
 This repository contains research and draft RFCs.
+
+- Not a standard.
+- Not production-ready.
+- Seeking contributors.
 
 ## Documentation
 
