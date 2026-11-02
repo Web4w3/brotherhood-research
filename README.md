@@ -10,6 +10,8 @@ each other, establish trust, delegate tasks, and collaborate
 across vendors, models, organizations, and execution
 environments.
 
+![Brotherhood Federation Overview](diagrams/federation-layer.png)
+
 ## Questions we are investigating:
 
 - Do AI agents need an equivalent of SMTP?
