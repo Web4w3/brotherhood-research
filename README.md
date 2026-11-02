@@ -10,7 +10,7 @@ each other, establish trust, delegate tasks, and collaborate
 across vendors, models, organizations, and execution
 environments.
 
-![Brotherhood Federation Overview](diagrams/federation-layer.png)
+![Brotherhood Federation Overview](./diagrams/federation-layer.png)
 
 ## Questions we are investigating:
 
