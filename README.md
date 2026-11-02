@@ -3,10 +3,26 @@
 Brotherhood Research is an open research initiative exploring
 Agent Federation.
 
+## Problem
+
+Current AI standards focus primarily on:
+
+- Agent → Tool (MCP)
+- Task Delegation (A2A)
+- Workflow Orchestration
+
+Brotherhood explores a different question:
+
+How can independent agents discover, trust, and collaborate with each other across vendors, organizations, and ecosystems?
+
+One more time:
+
 The objective is to understand how AI agents can discover
 each other, establish trust, delegate tasks, and collaborate
 across vendors, models, organizations, and execution
 environments.
+
+![Brotherhood Federation Overview](diagrams/federation-layer.png)
 
 ## Questions we are investigating:
 

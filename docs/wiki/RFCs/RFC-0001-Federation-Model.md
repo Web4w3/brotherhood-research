@@ -1,8 +1,6 @@
-# RFC-0001
-# Brotherhood Core Protocol
+# RFC-0001 Federation Model
 
 Status: Draft
-
 Version: 0.1
 
 Author: Andrey Karasev
