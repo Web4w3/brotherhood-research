@@ -3,6 +3,8 @@
 Brotherhood Research is an open research initiative exploring
 Agent Federation.
 
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
 The objective is to understand how AI agents can discover
 each other, establish trust, delegate tasks, and collaborate
 across vendors, models, organizations, and execution
