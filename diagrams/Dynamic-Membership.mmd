@@ -1,0 +1,15 @@
+flowchart TD
+    S[Deliberation Started]
+    A[Architect Joined]
+    D[Developer Joined]
+    R1[Security Risk Identified]
+    SE[Security Expert Joined]
+    R2[Legal Concern Identified]
+    LE[Legal Expert Joined]
+    C[Consensus]
+    DEC[Decision]
+
+    S --> A --> D --> R1 --> SE --> R2 --> LE --> C --> DEC
+
+    SE -. Dynamic Membership .-> R1
+    LE -. Dynamic Membership .-> R2

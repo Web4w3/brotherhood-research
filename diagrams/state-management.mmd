@@ -1,0 +1,18 @@
+stateDiagram-v2
+    [*] --> Open
+    Open --> Active
+    Active --> Waiting
+    Waiting --> Active
+    Active --> ConsensusReached
+    ConsensusReached --> DecisionMade
+    DecisionMade --> Closed
+
+    Active --> Abandoned
+    Waiting --> Abandoned
+
+    note right of Waiting
+      Waiting for Expert
+      Waiting for Evidence
+      Waiting for Legal Review
+      Waiting for Security Review
+    end note

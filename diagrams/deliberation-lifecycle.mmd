@@ -1,0 +1,10 @@
+flowchart TD
+    Q[Question] --> P[Proposal]
+    P --> A[Analysis]
+    A --> C[Challenge]
+    C --> R[Refinement]
+    R --> CS[Consensus]
+    CS --> D[Decision]
+
+    C -. feedback .-> P
+    R -. improve .-> P
