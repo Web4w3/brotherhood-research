@@ -1,0 +1,10 @@
+flowchart TD
+    P[Proposal] --> CH[Challenge]
+    CH --> RF[Refinement]
+    RF --> IP[Improved Proposal]
+
+    IP -. New Questions .-> CH
+    CH -. Additional Feedback .-> RF
+
+    E[Evidence] --> CH
+    X[Expert Review] --> CH
